@@ -4,8 +4,6 @@ description: This resource contains problem statements related to optimization m
 file: /courses/15-093j-optimization-methods-fall-2009/e5696c5ee30d36117c5ab5e7d3f82538_MIT15_093J_F09_fin_03_sol.pdf
 file_size: 124935
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
